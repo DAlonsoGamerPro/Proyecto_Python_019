@@ -4,7 +4,7 @@ from tkinter import ttk
 
 root = Tk()
 root.title("Mirador de Imágenes")
-root.geometry("500x500")
+root.geometry("900x900")
 root.config(bg="turquoise1")
 
 label_planet_image = Label(root,bg="red",highlightthickness=5,borderwidth=2,relief=SOLID)
